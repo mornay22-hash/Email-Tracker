@@ -1,0 +1,7 @@
+# clasp writes this after "clasp create" — contains your scriptId
+.clasp.json
+
+# Local env / editor noise
+.env
+.DS_Store
+Thumbs.db
